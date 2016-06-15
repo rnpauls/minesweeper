@@ -6,8 +6,6 @@ import student.TestCase;
 /**
  * Tests the MineSweeperBoard class
  *
- * @author Rich Pauls
- * @version 06 14 2016
  */
 
 public class MineSweeperBoardTest

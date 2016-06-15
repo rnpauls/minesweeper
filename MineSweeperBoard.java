@@ -6,8 +6,6 @@ import java.util.Random;
 /**
  * A class representing the board of a game of Minesweeper.
  *
- * @author Rich Pauls
- * @version 06 13 2016
  */
 
 public class MineSweeperBoard
